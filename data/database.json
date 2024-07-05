@@ -1,0 +1,22 @@
+{
+    "students": [
+         {
+            "id" : "01",
+            "name" : "Piyush Kumar",
+            "age" : "21",
+            "about" : "loves family, friends and food but struggles to code."
+        },
+        {
+            "id" : "02",
+            "name" : "Harshit Singh Baghel",
+            "age" : "20",
+            "about" : "loves Kohli , Hero-Guy, yaaron ka yaar, all-rounder."
+        },
+        {
+            "id" : "03",
+            "name" : "Aman Kumar",
+            "age" : "21",
+            "about": "love friends, coder, serious guy, trader."
+        }
+    ]
+}
